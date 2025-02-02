@@ -34,13 +34,13 @@ You will need two datasets for this project:
 Download the datasets and place them in the `data/` folder.
 
 ### 2. Open the Notebook
-The full workflow for preprocessing, model training, evaluation, and saving the model is contained in the Jupyter/Colab notebook, which is located in the `notebook/` folder (`Time-Series-Forecasting/air_quality_forecasting_starter_code.ipynb/`).
+The full workflow for preprocessing, model training, evaluation, and saving the model is contained in the Jupyter/Colab notebook, which is located in the `notebook/` folder (`Time-Series-Forecasting/notebok/`).
 
 To open the notebook:
 - You can either **download the notebook** and run it locally using Jupyter, or
 - **Open it in Google Colab** by clicking the link provided in the notebook file itself.
 
-### 3. Make a Copy of the Notebook (Recommended)
+### 3. Make a Copy of the Notebook (Mandatory)
 If using Google Colab:
 - **Save a copy to your Drive** before making any changes. To do this, go to `File → Save a copy in Drive` in the Colab menu. This way, you can make edits while preserving the original notebook intact.
 
